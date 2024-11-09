@@ -1,0 +1,1 @@
+# ce programme ve impementer la méthode de rectange, de trapèze pour passer de signal continue à un signal nulérique (UE_SSS(COURS D'AUTOMATIQUE))
